@@ -1,0 +1,220 @@
+@charset "UTF-8";
+*
+{
+	margin:0;
+	padding:0;
+	
+background:#FEFF86;
+
+}
+
+.header
+{
+	
+	min-height:100vh;
+	width:device-width;
+	
+/* Created with https://www.css-gradient.com */
+
+opacity:1;
+
+background-position:center;
+background-size:cover;
+
+}
+
+
+.header h1 
+{
+	text-align:left;
+	position:absolute,center;
+	color: red;
+	margin:auto;
+	font-size:300%;
+	       
+  
+    
+}
+
+	.nav-links
+	{
+	
+	
+	}
+
+.nav-links ul li
+{
+	list-style:none;
+	display: inline-block;
+	padding: 8px 12px;
+	
+	font-size:15px;
+	
+	position:center;
+}
+
+.gallery  img
+{
+	height:70vh;
+	width:90%;
+	MARGIN-LEFT:5%;
+	position:CENTER;
+	opacity:2;
+}
+.gallery 
+{
+	color:blue;
+	font-size:30px;
+	
+}
+
+.boxes
+{
+	display: flex;
+	width:device-width;
+	height:auto;
+	background: linear-gradient(#F2F60F, white, #F2F60F);
+	padding:0;
+	position:center;
+		
+}
+.damodar 
+{
+background: radial-gradient(to left, #E53B5F, #F2F60F);		
+	
+	display: flex;
+	width:device-width;
+	height:auto;
+	
+}
+
+.damodar p
+{
+	
+	font-size:20px;
+}
+
+
+
+.boxes div
+{width:33.3%;
+
+padding:5px;
+margin:3px;
+border:0.5px;
+
+border-color:white;
+border-style:ridge;}
+
+
+.boxes div h3 
+{
+text-align:center;
+	position:center;	
+	color:red;
+}
+.boxes div h5
+{
+	
+	text-align:center;
+	color:blue;
+	font-size:15px;
+	padding:10px;
+	
+	
+}
+.boxes a
+{
+	margin-left:49%;
+}
+.DESCRIPTION 
+{
+	BORDER:5PX SOLID;
+	COLOR:WHITE;
+
+}
+
+.DESCRIPTION H5
+{
+		TEXT-ALIGN:center;
+		FONT-SIZE:20PX;	
+		color:red;
+}
+.DESCRIPTION P{ FONT-SIZE:19PX;
+color:red;}
+.article
+{
+	border:2px solid white;
+	width:70%;
+	margin-left:15%;
+}
+.sati-anusuya p 
+{
+	width:90%;
+	font-size:18px;
+	margin-left:5%;
+	margin-top:2%;
+	margin-bottom:2%;
+	color:#E21818;
+}
+.boxes2 
+{
+	width:device-width;
+position:center;
+display: inline-block;
+}
+.boxes2 img 
+{
+	
+	width:50%;
+	margin-left:20%;
+	margin-top:5%;
+	border:10px solid gold;
+}
+.boxes2 h2
+{
+	
+	color:white;
+	text-align:center;
+	
+}
+
+.sati-anusuya h4
+{
+	text-align:center;
+}
+
+.container 
+{
+	display:flex;
+	
+	
+}
+.sati-anusuya ul
+{ 
+ margin-left:20%;
+
+ color:#E21818;
+ font-size:20px;
+	
+}
+
+.footer 
+{
+	text-align:center;
+	font-size:18px;
+	color:blue;
+	display:flex;
+	padding:20vh;
+	
+}
+.pannel  img
+{
+
+	height:20%;
+	
+}
+
+
+
+
